@@ -8,6 +8,11 @@ Gigzman is a web development and digital product studio in Gurugram, Haryana. We
 
 - Website: https://gigzman.com?utm_source=github&utm_medium=guest&utm_campaign=gp
 
+## Docs
+
+- [Before you approve a website milestone: a sign-off checklist for each stage](docs/website-milestone-signoff-checklist.md)
+- [eCommerce store budget in India: the four invoices to total before you compare quotes](docs/index.md)
+
 This repository holds public notes, docs and examples from the Gigzman studio. Client code is not published here.
 
 I'm Tarun, founder of Gigzman.
